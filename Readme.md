@@ -43,3 +43,7 @@ Git - это одна из реализаций распределённых с�
 For more information, see the [contributor guide index](https://learn.microsoft.com/ru-ru/contribute/markdown-reference).
 
 
+
+>***Обязательно учись!!!***
+
+    не уверен что примечание будет работать адекватно
