@@ -66,4 +66,4 @@ For more information, see the [contributor guide index](https://learn.microsoft.
 
 ВСЁ получилось!!
 
-![Радуйтесь](../../../../G:/!!!!!%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B8/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B0%20%D0%BF%D0%BE%20GIT/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D0%BB%D0%BE%D1%81%D1%8C.jpg)
+![Радуйтесь](/получилось.jpg)
